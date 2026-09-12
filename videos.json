@@ -7121,7 +7121,6 @@
       "duration": "6:15",
       "status": "",
       "categories": [
-         "coinPrice": 50,
         "Drama"
       ],
       "genre": [
@@ -7146,6 +7145,7 @@
         "https://www.mediafire.com/file/pukunhk8ics40e8/InShot_20260909_223751018.mp4/file"
       ],
       "manualViews": 1727048
+       "coinPrice": 50,
     },
     {
       "id": 194,
